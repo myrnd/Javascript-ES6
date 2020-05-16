@@ -1,0 +1,1 @@
+print("Welcome to Javascript on Java Platform");
