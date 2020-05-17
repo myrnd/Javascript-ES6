@@ -1,0 +1,32 @@
+ECMAScript2015 (ES6)
+ECMAScript2016 (ES7)
+ECMAScript2017 (ES8)
+ECMAScript2018 (ES9)
+
+Day-1: Saturday, May 16, 2020
+-----------------------------
+==> let, const --- DONE
+==> Template String (Backtick) --- DONE
+
+Day-2: Sunday, May 17, 2020
+----------------------------
+==> Arrow Function or Fat Arrow Function --- DONE
+==> Spread/Rest Operator --- DONE
+==> Object/Array Destructuring --- DONE
+
+Day-3: Saturday, May 23, 2020
+-----------------------------
+==> Object.keys
+==> Object.values
+==> Object.entries
+
+==> Array.prototype.map
+==> Array.prototype.filter
+==> Array.prototype.reduce
+==> Array.prototype.find
+==> Array.prototppe.findIndex
+==> Array.prototype.includes
+
+==> String.includes
+==> String.startsWith
+==> String.endsWith
