@@ -1,7 +1,28 @@
-Client Side run-time embeded in web browser
+NOTE: Client side javascript run-time always embeded in a web browser
 
-Server Side Javascript Runtime:
-=> Deno
-=> Node
-=> Rhino
-=> JJS
+for Server Side Javascript Runtime, we need to install one of from the following list:
+--------------------------------------------------------------------------------------
+=> Deno (Written in Javascript, Typescript, Rust and C++)
+=> Node (Written in C++)
+=> Rhino (Written Fully in Java)
+=> JJS (Written in Fully Java and OOB from jdk1.8 within the bin folder)
+
+
+
+Syntax to use "Deno"
+--------------------
+> deno run demo.js
+> deno run demo.ts
+
+
+Syntax to use "Node"
+--------------------
+> node demo2.js
+
+Syntax to use "Rhino"
+---------------------
+> java -jar rhino-1.7.1jar demo.js
+
+Syntax to use "JJS"
+-------------------
+> jjs demo2.js
