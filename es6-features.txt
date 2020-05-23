@@ -20,13 +20,10 @@ Day-3: Saturday, May 23, 2020
 ==> Object.values
 ==> Object.entries
 
-==> Array.prototype.map
-==> Array.prototype.filter
-==> Array.prototype.reduce
-==> Array.prototype.find
-==> Array.prototppe.findIndex
-==> Array.prototype.includes
+==> Array.prototype.indexOf
 
+==> Array.prototype.includes
 ==> String.includes
 ==> String.startsWith
 ==> String.endsWith
+-----------------------------
